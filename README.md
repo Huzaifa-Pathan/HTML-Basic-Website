@@ -1,2 +1,2 @@
 # HTML-Basic-Website
-This is a basic HTMKL website
+This is a basic HTML website 
